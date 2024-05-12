@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bookingvan/static/css/main.9920f1ae.css",
+    "main.css": "/bookingvan/static/css/main.a8275c9d.css",
     "main.js": "/bookingvan/static/js/main.946ab0f7.js",
     "static/js/453.6026b994.chunk.js": "/bookingvan/static/js/453.6026b994.chunk.js",
     "static/media/logoVan2.png": "/bookingvan/static/media/logoVan2.898bc77cd23c553d6a6c.png",
     "index.html": "/bookingvan/index.html",
-    "main.9920f1ae.css.map": "/bookingvan/static/css/main.9920f1ae.css.map",
+    "main.a8275c9d.css.map": "/bookingvan/static/css/main.a8275c9d.css.map",
     "main.946ab0f7.js.map": "/bookingvan/static/js/main.946ab0f7.js.map",
     "453.6026b994.chunk.js.map": "/bookingvan/static/js/453.6026b994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9920f1ae.css",
+    "static/css/main.a8275c9d.css",
     "static/js/main.946ab0f7.js"
   ]
 }
